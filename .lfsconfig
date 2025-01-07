@@ -1,1 +1,2 @@
-lfs.fetchexclude=*.mp4
+[lfs]
+    fetchexclude=*.mp4
